@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookingDetails>
+	<from>Delhi</from>
+	<to> chennai</to>
+	<tripType>oneway</tripType>
+	<fromDate>08-05-2020</fromDate>
+	<returnDate>09-05-2020</returnDate>
+	<flightNo>FN01</flightNo>
+	<passergerDetails>
+		<name>C.vimala</name>
+		<dob>13.01.94</dob>
+		<address>
+			<streetName> Thalai street</streetName>
+			<cityName>chennai</cityName>
+			<districtName>chennai</districtName>
+			<stateName>TamilNadu</stateName>
+			<country>India</country>
+			<communicationDetails>
+				<phone>
+					<mobileNumber>9994252366</mobileNumber>
+					<landLineNumber>0452-5678652</landLineNumber>
+				</phone>
+				<email>
+					<personal>vimala@gmail.com</personal>
+					<official>hcl_vimala@hcl.com</official>
+				</email>
+			</communicationDetails>
+		</address>
+	</passergerDetails>
+	<paymentDetails>
+		<cardName>IOB</cardName>
+		<cardHolderName>vimala</cardHolderName>
+		<cardNumber>12345678912345</cardNumber>
+		<cvvNumber>7890</cvvNumber>
+	</paymentDetails>
+</bookingDetails>
